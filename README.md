@@ -3,7 +3,7 @@
 ## **How to Run the Code**  
 
 ### **Prerequisites**  
-Download the dataset from [Darknet Dataset]([https://example.com/dataset-link](https://www.unb.ca/cic/datasets/darknet2020.html)).
+Download the dataset from [Darknet Dataset](https://www.unb.ca/cic/datasets/darknet2020.html).
 Ensure you have the following installed:  
 - Python (≥3.8)  
 - Jupyter Notebook or JupyterLab  
